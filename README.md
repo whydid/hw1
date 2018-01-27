@@ -26,9 +26,9 @@
 После завершения курса в языковой школе я получила следующие оценки:
 1|2
 ---|:---:
-Грамматика (gramática) | 9
-Устная речь (expresión oral) | 9
-Письменные навыки (expresión escrita) | 9
-Понимание (comprensión) | 10
-Лексика (léxico) | 9
-Приобретение знаний (adquisición de conocimientos) | 10
+Грамматика (gramática)|9
+Устная речь (expresión oral)|9
+Письменные навыки (expresión escrita)|9
+Понимание (comprensión)|10
+Лексика (léxico)|9
+Приобретение знаний (adquisición de conocimientos)|10
